@@ -43,6 +43,14 @@ Several academic studies and research papers have addressed the issue of halluci
 
 Find detailed examples of prompts in the [examples](examples/) directory.
 
+## Illustration
+
+![Hallucination by AI](images/hallucination_example.png)
+
+## Acknowledgment
+
+This repository was created with the assistance of OpenAI's GPT-4, which provided detailed explanations and structured content to help compile the techniques and examples.
+
 ### References
 
 - Lewis, P., Oguz, B., Rinott, R., Riedel, S., & Schwenk, H. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. arXiv preprint arXiv:2005.11401. [Link](https://arxiv.org/abs/2005.11401)
